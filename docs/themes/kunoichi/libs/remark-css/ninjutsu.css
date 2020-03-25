@@ -435,6 +435,19 @@
   transform: translateY(-50%);
 }
 
+.vtop {position: relative; top: 10%; transform: translateY(-10%); }
+.vbottom {position: relative; top: 90%; transform: translateY(-90%); }
+
+.v10 {position: relative; top: 10%; transform: translateY(-10%); }
+.v20 {position: relative; top: 20%; transform: translateY(-20%); }
+.v30 {position: relative; top: 30%; transform: translateY(-30%); }
+.v40 {position: relative; top: 40%; transform: translateY(-40%); }
+.v45 {position: relative; top: 45%; transform: translateY(-45%); }
+.v50 {position: relative; top: 50%; transform: translateY(-50%); }
+.v60 {position: relative; top: 60%; transform: translateY(-60%); }
+.v70 {position: relative; top: 70%; transform: translateY(-70%); }
+.v80 {position: relative; top: 80%; transform: translateY(-80%); }
+.v90 {position: relative; top: 90%; transform: translateY(-90%); }
 
 .pad10px{ padding: 10px; }
 .pad1{ padding: 1em; }
